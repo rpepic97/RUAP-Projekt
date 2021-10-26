@@ -6,7 +6,7 @@ namespace zad1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Robert Pepić");
+            Console.WriteLine("Pozdrav iz aplikacije od Robert Pepić , neznam broj indeksa");
         }
     }
 }
